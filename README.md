@@ -6,5 +6,8 @@ Examples at:
 - https://vle.cant-col.ac.uk
 - https://intranet.cant-col.ac.uk/login
 
-![](https://github.com/East-Kent-Partnership/ResponsiveLoginDesign/screenshots/Desktop.png)
-![](https://github.com/East-Kent-Partnership/ResponsiveLoginDesign/screenshots/Mobile.png)
+## Screenshots
+### Desktop
+![](https://github.com/East-Kent-Partnership/ResponsiveLoginDesign/blob/master/screenshots/Desktop.png)
+### Mobile
+![](https://github.com/East-Kent-Partnership/ResponsiveLoginDesign/blob/master/screenshots/Mobile.png)
