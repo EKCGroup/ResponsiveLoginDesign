@@ -138,6 +138,8 @@ a#loginerrormessage {
     outline: 0;
     -webkit-box-shadow: none;
     box-shadow: none
+    background: #005393;
+    color: #FFF;
 }
 
 .custom-login-panel nav img {
