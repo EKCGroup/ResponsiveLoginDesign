@@ -13,11 +13,11 @@
         <meta name="theme-color" content="#005393">
         <meta name="robots" content="noindex">
         <meta charset="utf-8">
-        <?php if (!isset($is_codeigniter)) { ?>
+        <?php if (isset($is_concrete5)) {
             
-            <?php Loader::element('header_required'); ?>
+            Loader::element('header_required');
         
-        <?php /* END Codeigniter */ } ?>
+        } ?>
     </head>
     <body>
         <div class="custom-login-panel">

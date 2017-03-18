@@ -14,6 +14,11 @@
             <footer>
                 <p class="copy">© Copyright <?= date("Y") ?> by Canterbury College</p>
             </footer>
+            <?php if (isset($is_concrete5)) {
+            
+                 Loader::element('footer_required');
+
+            } ?>
         </div><!--end div class=custom-login-panel-->            
     </body>
 </html>
