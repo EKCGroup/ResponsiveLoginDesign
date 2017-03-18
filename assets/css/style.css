@@ -2,7 +2,7 @@
 body {
     height: 100%;
     width: 100%;
-    background: url(https://cdn.cant-col.ac.uk/canterbury-assets/login.cant-col.ac.uk/img/background.jpg) center no-repeat fixed;
+    background: url(/application/elements/theme/global/ResponsiveLoginDesign/assets/img/background.jpg) center no-repeat fixed;
     background-size: cover;
     margin: 0 auto;
     text-align: center;
