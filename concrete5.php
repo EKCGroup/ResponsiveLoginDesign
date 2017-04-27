@@ -17,4 +17,3 @@ Loader::element('theme/global/ResponsiveLoginDesign/layout/header');
     }
 
 Loader::element('theme/global/ResponsiveLoginDesign/layout/footer');
-?>

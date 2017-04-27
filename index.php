@@ -8,4 +8,4 @@
         <input type="submit" class="icon-submit fa fa-angle-right" id="login" value="Sign In" readonly/>
     </form>
 
-<?php include('/var/www/html/login/layout/footer.php'); ?>
+<?php include('/var/www/html/login/layout/footer.php');
